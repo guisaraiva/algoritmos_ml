@@ -22,3 +22,5 @@ Após o aprendizado, observei que a alteração dos parâmetros pode influenciar
 O Algoritmo Navie Bayes é simples e podemos usá-lo como algoritmo BaseLine.
 
 Eu realizei algumas análises de sentimentos utilizando a ferramenta KNIME. Existem várias etapas que poderiam ser utilizada no Naive.
+
+------------------------------------------------------------------------------------------------------------------------------------------
