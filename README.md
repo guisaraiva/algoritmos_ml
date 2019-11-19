@@ -1,5 +1,30 @@
 Armazenar os algoritmos de Machine Learning aprendidos durante a Pós e os respectivos cursos online. 
 
+## Algoritmo Regressão Linear
+
+Utilizei o algoritmo de Regressão Linear para predição de preços do fechamento de uma ação.
+
+Os dados utilizados são da ação PETR4 (Petrobras) dos anos de 2010 até 2017. Nessa base de dados já temos
+a classe (fechamento). 
+
+O objetivo é separar os dados de teste e treino para prever os respectivos valores de fechamento nos dados de teste.
+
+Após a execução do modelo, verificar se os valores preditos estão iguais ou próximos aos valores reais.
+
+##### O que foi utilizado na aprendizagem desse algoritmo:
+
+* Biblioteca Scikit Learn / Pandas / Matplotlib / Datetime
+* Técnicas de validação do modelo com o RSME - Root Mean Square Error
+* Alteração de tipo de coluna usando datetime
+* Visualização de dados utilizando Matplotlib
+* Separação de dados do conjunto de dados para teste e treino do modelo
+
+
+Podemos concluir que o modelo de Regressão linear aproximou-se dos valores reais do conjunto de teste. Acredito que a combinação de outras técnicas de preparação de dados e aplicação de métricas pode melhorar o resultado obtido.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Algoritmo Naive Bayes
 
 Realizei uma análise de um conjunto de dados públicos extraídos do Tweet com informações relacionadas ao Governo de Minas Gerais. 
@@ -24,3 +49,4 @@ O Algoritmo Navie Bayes é simples e podemos usá-lo como algoritmo BaseLine.
 Eu realizei algumas análises de sentimentos utilizando a ferramenta KNIME. Existem várias etapas que poderiam ser utilizada no Naive.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
