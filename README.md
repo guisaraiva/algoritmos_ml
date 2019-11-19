@@ -50,3 +50,23 @@ Eu realizei algumas análises de sentimentos utilizando a ferramenta KNIME. Exis
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+## Algoritmo KNN - N Nearest Neighbors
+
+Durante a aprendizagem do KNN utilizei duas bases de dados que são utilizadas para quem está começando
+na área de dados.
+
+A famosa base de dados Iris e Digitos.
+
+Vale a pena uma leitura nesse artigo (https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
+
+##### O que foi utilizado na aprendizagem desse algoritmo:
+
+* Biblioteca Scikit Learn / Pandas / Matplotlib / Seaborn / Numpy / Warning
+* Técnicas de Cross Validation / Matriz de confusão / Tunning / GridSearchCV
+* Métricas de validação do modelo criado.
+* Visualização de dados com o Seaborn
+
+O ponto alto dessa aprendizagem foi o tunning realizado no algoritmo. Desta forma, podemos obter o melhor
+parâmetro K do respectivo modelo.
+
+------------------------------------------------------------------------------------------------------------------------------------------
