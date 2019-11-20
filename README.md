@@ -70,3 +70,21 @@ O ponto alto dessa aprendizagem foi o tunning realizado no algoritmo. Desta form
 parâmetro K do respectivo modelo.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+## Algoritmo K - Means
+
+Algoritmo do tipo não supervisionado que tem como objetivo encontrar similaridades entre os dados e agrupá-los conforme o número de cluster passado pelo argumento k.
+
+Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem pequena e intuita. Muito boa para aprendizado de alguns algoritmos.
+
+##### O que foi utilizado na aprendizagem desse algoritmo:
+
+* Biblioteca Scikit Learn / Pandas / Matplotlib / Seaborn /
+* Técnicas de Métricas de validação / Matriz de confusão / Agrupamento de dados
+* Utilização do método Elbow para estimar o valor de K
+* Visualização de dados com o Seaborn
+
+Esse algoritmo só funciona com variávels numéricas. Desta forma, precisamos realizar algumas alterações necessária na base de dados antes de prosseguir com a aplicação do algoritmo.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
