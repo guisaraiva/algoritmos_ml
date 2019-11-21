@@ -1,4 +1,4 @@
-Armazenar os algoritmos de Machine Learning aprendidos durante a Pós e os respectivos cursos online. 
+Armazenar os algoritmos de Machine Learning aprendidos durante a Pós - Ciência de Dados (PUC MG) e os respectivos cursos online (Minerando dados / Data Science Academy / Udemy...). 
 
 ## Algoritmo Regressão Linear
 
