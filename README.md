@@ -11,7 +11,7 @@ O objetivo é separar os dados de teste e treino para prever os respectivos valo
 
 Após a execução do modelo, verificar se os valores preditos estão iguais ou próximos aos valores reais.
 
-##### O que foi utilizado na aprendizagem desse algoritmo:
+##### O que aprendi com esse algoritmo:
 
 * Biblioteca Scikit Learn / Pandas / Matplotlib / Datetime
 * Técnicas de validação do modelo com o RSME - Root Mean Square Error
@@ -35,7 +35,7 @@ Realizei uma análise de um conjunto de dados públicos extraídos do Tweet com 
 * Gaussian Naive Bayes:Calcula-se a média e o desvio padrão dos valores de entrada para cada classe.
 * Multinomial Naive Bayes: Utiliza a frequência de termos.
 
-##### O que foi utilizado na aprendizagem desse algoritmo:
+##### O que aprendi com esse algoritmo:
 
 * Biblioteca Scikit Learn / Pandas / Matplotlib
 * Técnicas de Cross Validation / Matriz de confusão / Tunning / GridSearchCV
@@ -59,7 +59,7 @@ A famosa base de dados Iris e Digitos.
 
 Vale a pena uma leitura nesse artigo (https://www.datacamp.com/community/tutorials/k-nearest-neighbor-classification-scikit-learn)
 
-##### O que foi utilizado na aprendizagem desse algoritmo:
+##### O que aprendi com esse algoritmo:
 
 * Biblioteca Scikit Learn / Pandas / Matplotlib / Seaborn / Numpy / Warning
 * Técnicas de Cross Validation / Matriz de confusão / Tunning / GridSearchCV
@@ -77,7 +77,7 @@ Algoritmo do tipo não supervisionado que tem como objetivo encontrar similarida
 
 Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem pequena e intuita. Muito boa para aprendizado de alguns algoritmos.
 
-##### O que foi utilizado na aprendizagem desse algoritmo:
+##### O que aprendi com esse algoritmo:
 
 * Biblioteca Scikit Learn / Pandas / Matplotlib / Seaborn /
 * Técnicas de Métricas de validação / Matriz de confusão / Agrupamento de dados
