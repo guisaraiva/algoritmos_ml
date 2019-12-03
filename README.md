@@ -75,7 +75,7 @@ parâmetro K do respectivo modelo.
 
 Algoritmo do tipo não supervisionado que tem como objetivo encontrar similaridades entre os dados e agrupá-los conforme o número de cluster passado pelo argumento k.
 
-Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem pequena e intuita. Muito boa para aprendizado de alguns algoritmos.
+Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem pequena e intuitiva. Muito boa para aprendizado de alguns algoritmos.
 
 ##### O que aprendi com esse algoritmo:
 
@@ -85,6 +85,24 @@ Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem
 * Visualização de dados com o Seaborn
 
 Esse algoritmo só funciona com variávels numéricas. Desta forma, precisamos realizar algumas alterações necessária na base de dados antes de prosseguir com a aplicação do algoritmo.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+## Algoritmo SVM 
+
+O algoritmo SVM é aplicado na classificação de flores e na classificação de músicas do Spotify. O SVM será utilizado para criação de classificador que identifica possíveis músicas que um usuário poderia gostar. O objetivo é realizar o treino do algoritmo, validar o modelo e fazer tunning dos parâmetros do SVM.
+
+Nesse algoritmo, utilizei novamente a base de dados Iris. A base de dados é bem pequena e intuitiva. Muito boa para aprendizado de alguns algoritmos.
+
+##### O que aprendi com esse algoritmo:
+
+* Biblioteca Scikit Learn / Pandas / Matplotlib / Seaborn / Numpy / Warnings
+* Técnicas de Métricas de validação: Label Encoder / One Hot Encoding / Tunning / Pipeline / Get_dummies / Acurácia
+
+
+Na aprendizagem desse algoritmo, podemos observar que a utilização do SVM retorna melhores parâmetros com a combinação de técnicas e tunnig nos dados. Realizei a transformação de variáveis categóricas em numéricas para execução do algoritmo.
+
+Ele trabalha com variáveis numéricas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
